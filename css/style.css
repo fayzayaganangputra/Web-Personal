@@ -593,7 +593,7 @@ span {
 
 .footer-text p {
     font-size: 1.6rem;
-    color: var(--white-color);
+    color: var(--bg-color);
 }
 
 .footer-iconTop a {
